@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤓 About Me:
 I'm Connor, a software engineer from South Wales, UK. 
 
 ![](https://github-readme-stats.shion.dev/api?username=connorj00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
